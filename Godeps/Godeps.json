@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/phuslu/goproxy",
+	"ImportPath": "github.com/JacobZy/goproxy",
 	"GoVersion": "go1.6",
 	"Packages": [
 		"./..."
